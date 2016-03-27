@@ -14,4 +14,4 @@ Kurulum
 -----------
 * Arduino IDE'yi kurduktan sonra anadizindeki `bReducer.ino` dosyasını Arduino IDE ile açıp upload edelim.
 * `bReducer.sln` dosyasını Visual Studio ile açıp isterseniz build edebilirsiniz isterseniz geliştirebilirsiniz.
-Kolay gelsin. 
+Kolay gelsin.
